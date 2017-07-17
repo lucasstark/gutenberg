@@ -5,6 +5,7 @@
         "attributes": {
             "postsToShow": 5,
             "displayPostDate": false
-        }
+        },
+        "isValid": true
     }
 ]
